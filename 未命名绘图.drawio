@@ -1,1 +1,292 @@
-<mxfile host="app.diagrams.net" modified="2021-09-15T08:13:31.919Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="SDoBCBZGI6N5VXnHJ6QR" version="15.2.7" type="github"><diagram name="Page-1" id="b33cb84f-bf7a-9ccf-f142-242d16432e5d">5VxJc9s2FP41OjZDrCSPtmI77UxnOuND2yMjwhInlOih6a2/vqAELniAFcQxRIXwxcLjAvL7Ht4GgAuy3L7c1Nn95s8qF+UCR/nLgnxeYIxolMh/reT1IImpEqzrIlcnDYLb4j+hhJGSPha5eNBObKqqbIp7XbiqdjuxajRZVtfVs37aXVXqvd5na2EIbldZ2Uk/sUH+d5E3GyVHPB0OfBHFeqM6TzA/HPiarb6t6+pxp3rcVTtxOLLNutuot3zYZHn1PBKRqwVZ1lXVHH5tX5aibIHtMOuua167B12Qy02zLWUDyZ/7w9dvXIxcLpbvVYtdM+7urfvhjGURynMsKCJ3X+9+Ux08ZeVj1wHsUd5BUigbl8+bohG399mqPfIstUh/mD2Aou0pkq0eqH2jqatvPSntyXdFWS6rsqplew+3FFW7RqkVprKdlcV6Jxv1njHjTbtHF3UjXkYi9eY3otqKpn6Vp6ijOFZcKAXHTLWfB2VhkZJtRnqCiRJmSkXX/b0HrOUPBbcj9Dgg6BGAnhAT+l42hp6mPqAnAUGPUx16nligTyzQo8QH9DQg6OOIatAnqQV6yi0GB/mAngUEPUt0rU9sWs9PZut5QNCjCBh7m9r3VknDPvKBfRwS9ihmGvbU5miZBXvixdEmAWGfMh16Ejk6WhL7gD4NCHqEEh17xG2e1oY994F9574DAT/S7X1KmAE+suVVCHuJMImJdb4Wt6qpUFk91k97UJGOttjlF20xYjhTSq6LtvsR5B3Ei3aUc75cGmRgC/Jvgv1QPdYr8ZYydcWUrF6L5q2T1Eu3b3qUtFqUWVM86ZUUG/77SyUU2evohPuq2DUPozv/1QoGXaBAFSiKAJeHOw7M9o/2zpHmUMDwNb725Ld/3x1kUG2UZn3A4GNYB7w3cuNYyxpq+TB7DiWNOZNBYJXDknScjAxKZ2YGiYsZZOdhBrmuCJz4NoMOFa1ZjzykA87QlGbQocY1azKA9sdT+iTi1QxCiE3jZzGUy+WenneaQeZiBrkXM2jYOcZA5A8z2cNTqqsGFn/UnnJYUaKe7WmXwQSlNfg8nGdCQA6BfTtPh8L4nO01A0lbPGXYihxK5XMmg1NoUs1iyunIcKidz5mMBGTX6aQjw6GYPmcy0uSMRgbhPgMEw/1fXyvwvWXXqUuAgLwECEYEgBgIAWLI4QfFlQiBxRFx7DuwTALUm85yTRxYGhPTKfPNdhoi236sxI+ynYLclEe+0wiHGdc5+2eEqD4JO2m01N00WDbgate+NjNJuBTPyxD2C9yPhkvnMSeLCAicme/qWa+toY49ApYCcTxhqtKBHywbGGQTjE/IRlfeea8llP3/00L/iXXNfxUT5zdli12mbDttnNpKYlB4Y77LztTc3PNLT9C7sU3Pg20C2O5m7P2xbRrd+bPtKRU0p4ywnc2PrhelQGuI90gq8HUdCO5eolP6bhz4wg5E4O6CSdkIfNrWiFgmXW6IA5+3NXI+MuUSNBz4xC2KoN+YcrIQO1SGtcjPDPdGxEBM27YNe1uE6HWNkdM+Bdc1RtqefJOnTvaTgWMMSgOcAf4Pb2wEjmYECmYbKPUTgcJ9rVRfWfzd83nqe8rLofb3fl0/uU7TX0+nCVyUCTeTu+o03MyTeMqqKIhjYnxcpymctFdb6P3l7qY3vTCUWnqmRldeq3OzbNDrnOJKqqaQ8svWzxWrrLxQB7ZFnrfdWHcKHvHT49FzdAy4O1YK7EnvMEe6bd3j6qWWaq6IugyUFwQ3QFg2wJ6OFzPeWQbKC9wJlEzJS+cYRrx8DpSXGFQME8u3oE7HixkzXQXKSxLHZzResMHLdaC8GF9YmJYYsyx+EywxwMOgyLLY4HTMmCXyL4Eyk4I0BadT8mIWy38PlBdEMPhYjOUbSacjxqyb/xEqMTC5tO3i/iBiZHP4ZuuhRjB8FZdc/Q8=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-09-15T09:44:48.619Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="dnri5Ql_8c_QQifsfc3C" version="15.2.7" type="github">
+  <diagram name="Page-1" id="b33cb84f-bf7a-9ccf-f142-242d16432e5d">
+    <mxGraphModel dx="1847" dy="750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" style=";html=1;" />
+        <mxCell id="1" style=";html=1;" parent="0" />
+        <mxCell id="x9UDE61Ysqa8iBZXz2tG-8" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="240" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="x9UDE61Ysqa8iBZXz2tG-10" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="50" y="246" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="x9UDE61Ysqa8iBZXz2tG-12" value="实例" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="246" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="x9UDE61Ysqa8iBZXz2tG-14" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="50" y="275" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="x9UDE61Ysqa8iBZXz2tG-15" value="属性值" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="75" y="304" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="x9UDE61Ysqa8iBZXz2tG-16" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="50" y="304" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="x9UDE61Ysqa8iBZXz2tG-17" value="类" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="275" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="x9UDE61Ysqa8iBZXz2tG-18" value="P" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="50" y="333" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="x9UDE61Ysqa8iBZXz2tG-21" value="关系" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="75" y="333" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="x9UDE61Ysqa8iBZXz2tG-22" value="故障" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="400" y="224" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="x9UDE61Ysqa8iBZXz2tG-27" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="480" as="sourcePoint" />
+            <mxPoint x="740" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x9UDE61Ysqa8iBZXz2tG-33" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="x9UDE61Ysqa8iBZXz2tG-28" target="x9UDE61Ysqa8iBZXz2tG-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x9UDE61Ysqa8iBZXz2tG-28" value="旋转电机故障" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="250" y="353" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="x9UDE61Ysqa8iBZXz2tG-34" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="x9UDE61Ysqa8iBZXz2tG-29" target="x9UDE61Ysqa8iBZXz2tG-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x9UDE61Ysqa8iBZXz2tG-29" value="发动机故障" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="400" y="353" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="x9UDE61Ysqa8iBZXz2tG-35" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="x9UDE61Ysqa8iBZXz2tG-30" target="x9UDE61Ysqa8iBZXz2tG-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x9UDE61Ysqa8iBZXz2tG-30" value="铲斗故障" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="550" y="353" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="x9UDE61Ysqa8iBZXz2tG-36" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="x9UDE61Ysqa8iBZXz2tG-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="310" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="740" y="332" />
+              <mxPoint x="440" y="332" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x9UDE61Ysqa8iBZXz2tG-31" value="..." style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="670" y="353" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="x9UDE61Ysqa8iBZXz2tG-37" value="Schema Graph" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="450" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="x9UDE61Ysqa8iBZXz2tG-40" value="Instance Graph" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="490" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="x9UDE61Ysqa8iBZXz2tG-44" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="x9UDE61Ysqa8iBZXz2tG-41" target="x9UDE61Ysqa8iBZXz2tG-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x9UDE61Ysqa8iBZXz2tG-46" value="症状" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="x9UDE61Ysqa8iBZXz2tG-44">
+          <mxGeometry x="-0.1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x9UDE61Ysqa8iBZXz2tG-45" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="x9UDE61Ysqa8iBZXz2tG-41" target="x9UDE61Ysqa8iBZXz2tG-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x9UDE61Ysqa8iBZXz2tG-47" value="症状" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="x9UDE61Ysqa8iBZXz2tG-45">
+          <mxGeometry x="0.125" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x9UDE61Ysqa8iBZXz2tG-49" value="原因" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="x9UDE61Ysqa8iBZXz2tG-41" target="x9UDE61Ysqa8iBZXz2tG-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x9UDE61Ysqa8iBZXz2tG-51" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="x9UDE61Ysqa8iBZXz2tG-41" target="x9UDE61Ysqa8iBZXz2tG-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x9UDE61Ysqa8iBZXz2tG-52" value="基本服务" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="x9UDE61Ysqa8iBZXz2tG-51">
+          <mxGeometry x="0.1429" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x9UDE61Ysqa8iBZXz2tG-58" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="x9UDE61Ysqa8iBZXz2tG-41" target="x9UDE61Ysqa8iBZXz2tG-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x9UDE61Ysqa8iBZXz2tG-59" value="维修方法" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="x9UDE61Ysqa8iBZXz2tG-58">
+          <mxGeometry x="0.0884" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x9UDE61Ysqa8iBZXz2tG-61" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="x9UDE61Ysqa8iBZXz2tG-41" target="x9UDE61Ysqa8iBZXz2tG-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x9UDE61Ysqa8iBZXz2tG-62" value="故障码" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="x9UDE61Ysqa8iBZXz2tG-61">
+          <mxGeometry x="-0.2581" y="-16" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x9UDE61Ysqa8iBZXz2tG-65" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="x9UDE61Ysqa8iBZXz2tG-41" target="x9UDE61Ysqa8iBZXz2tG-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x9UDE61Ysqa8iBZXz2tG-66" value="故障码" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="x9UDE61Ysqa8iBZXz2tG-65">
+          <mxGeometry x="0.2231" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x9UDE61Ysqa8iBZXz2tG-79" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="x9UDE61Ysqa8iBZXz2tG-41">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x9UDE61Ysqa8iBZXz2tG-41" value="气门油封腐蚀老化" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="280" y="520" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="x9UDE61Ysqa8iBZXz2tG-42" value="冷态启动发动机冒蓝烟" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="80" y="570" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="x9UDE61Ysqa8iBZXz2tG-43" value="烧油..." style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="80" y="670" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="x9UDE61Ysqa8iBZXz2tG-48" value="气门油封变硬甚至断裂，导致油液过紧漏入燃烧室，形成蓝烟……" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="140" y="770" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="x9UDE61Ysqa8iBZXz2tG-54" value="包含" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="x9UDE61Ysqa8iBZXz2tG-50" target="x9UDE61Ysqa8iBZXz2tG-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x9UDE61Ysqa8iBZXz2tG-56" value="包含" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="x9UDE61Ysqa8iBZXz2tG-50" target="x9UDE61Ysqa8iBZXz2tG-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x9UDE61Ysqa8iBZXz2tG-50" value="气门油封服务" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="320" y="720" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="x9UDE61Ysqa8iBZXz2tG-53" value="气门油封" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="320" y="900" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="x9UDE61Ysqa8iBZXz2tG-55" value="专用扳手" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="450" y="900" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="x9UDE61Ysqa8iBZXz2tG-57" value="更换阀油封" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="490" y="770" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="x9UDE61Ysqa8iBZXz2tG-60" value="NF Bad smoke color" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="540" y="690" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="x9UDE61Ysqa8iBZXz2tG-63" value="A vent" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="610" y="590" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="x9UDE61Ysqa8iBZXz2tG-64" value="DB Aging" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="600" y="500" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="x9UDE61Ysqa8iBZXz2tG-68" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="x9UDE61Ysqa8iBZXz2tG-67" target="x9UDE61Ysqa8iBZXz2tG-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x9UDE61Ysqa8iBZXz2tG-69" value="故障码" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="x9UDE61Ysqa8iBZXz2tG-68">
+          <mxGeometry x="-0.0923" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x9UDE61Ysqa8iBZXz2tG-70" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="x9UDE61Ysqa8iBZXz2tG-67" target="x9UDE61Ysqa8iBZXz2tG-60">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="800" y="540" />
+              <mxPoint x="800" y="730" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x9UDE61Ysqa8iBZXz2tG-71" value="故障码" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="x9UDE61Ysqa8iBZXz2tG-70">
+          <mxGeometry x="-0.0977" y="-11" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x9UDE61Ysqa8iBZXz2tG-73" value="基础服务" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="x9UDE61Ysqa8iBZXz2tG-67" target="x9UDE61Ysqa8iBZXz2tG-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x9UDE61Ysqa8iBZXz2tG-80" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="x9UDE61Ysqa8iBZXz2tG-67">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x9UDE61Ysqa8iBZXz2tG-82" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="x9UDE61Ysqa8iBZXz2tG-67" target="x9UDE61Ysqa8iBZXz2tG-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x9UDE61Ysqa8iBZXz2tG-83" value="症状" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="x9UDE61Ysqa8iBZXz2tG-82">
+          <mxGeometry x="0.2308" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x9UDE61Ysqa8iBZXz2tG-85" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="x9UDE61Ysqa8iBZXz2tG-67" target="x9UDE61Ysqa8iBZXz2tG-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x9UDE61Ysqa8iBZXz2tG-86" value="症状" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="x9UDE61Ysqa8iBZXz2tG-85">
+          <mxGeometry x="0.28" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x9UDE61Ysqa8iBZXz2tG-88" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="x9UDE61Ysqa8iBZXz2tG-67" target="x9UDE61Ysqa8iBZXz2tG-87">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="960" y="540" />
+              <mxPoint x="960" y="780" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x9UDE61Ysqa8iBZXz2tG-89" value="维修方法" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="x9UDE61Ysqa8iBZXz2tG-88">
+          <mxGeometry x="-0.0973" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x9UDE61Ysqa8iBZXz2tG-91" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="x9UDE61Ysqa8iBZXz2tG-67" target="x9UDE61Ysqa8iBZXz2tG-90">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="900" y="810" />
+              <mxPoint x="1025" y="810" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x9UDE61Ysqa8iBZXz2tG-92" value="原因" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="x9UDE61Ysqa8iBZXz2tG-91">
+          <mxGeometry x="-0.1291" y="13" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x9UDE61Ysqa8iBZXz2tG-67" value="喷油器损坏" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="860" y="500" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="x9UDE61Ysqa8iBZXz2tG-74" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="x9UDE61Ysqa8iBZXz2tG-72" target="x9UDE61Ysqa8iBZXz2tG-55">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="780" y="790" />
+              <mxPoint x="670" y="790" />
+              <mxPoint x="670" y="870" />
+              <mxPoint x="490" y="870" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x9UDE61Ysqa8iBZXz2tG-75" value="包含" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="x9UDE61Ysqa8iBZXz2tG-74">
+          <mxGeometry x="-0.1043" y="13" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x9UDE61Ysqa8iBZXz2tG-77" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="x9UDE61Ysqa8iBZXz2tG-72" target="x9UDE61Ysqa8iBZXz2tG-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x9UDE61Ysqa8iBZXz2tG-78" value="包含" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="x9UDE61Ysqa8iBZXz2tG-77">
+          <mxGeometry x="-0.1571" y="-7" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x9UDE61Ysqa8iBZXz2tG-72" value="喷油器服务" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="780" y="740" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="x9UDE61Ysqa8iBZXz2tG-76" value="喷油器" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="740" y="920" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="x9UDE61Ysqa8iBZXz2tG-81" value="发动机冒黑烟" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="620" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="x9UDE61Ysqa8iBZXz2tG-84" value="发动机抖动" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="510" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="x9UDE61Ysqa8iBZXz2tG-87" value="更换喷油器" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="740" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="x9UDE61Ysqa8iBZXz2tG-90" value="喷油器使用磨损，造成油压状态不断向进气管泄漏" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="970" y="850" width="110" height="110" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
