@@ -1,1 +1,46 @@
-<mxfile host="app.diagrams.net" modified="2021-11-11T03:40:41.264Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="JfZ-EK1Q968uFlY9T2zW" version="15.6.8" type="github"><diagram id="2jkgbCqV82JcooATUMWH" name="第 1 页">dZHBDoIwDEC/ZvdJ0XBH1IsnDp4XVtmSQcmYAf16IRvigp7Wvb62S8cgb8azFZ26kkTDEi5HBkeWJLsdz6ZjJk9P0j33oLZaBmkFpX5hgIv20BL7SHRExukuhhW1LVYuYsJaGmLtTiae2okaN6CshNnSm5ZOeQrA+Zq4oK5VGJ0eslDSiMUOaq+EpOELQcEgt0TOR82Yo5m3tyzG153+ZD8vs9i6HwVTsPaeLtEXQfEG</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-11-11T07:17:20.786Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="_wp60CBII0VKHKgtj2in" version="15.6.8" type="github">
+  <diagram id="2jkgbCqV82JcooATUMWH" name="第 1 页">
+    <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="iWrDtdt-Z3ffTOrgZMP3-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="250" width="200" height="189" as="geometry" />
+        </mxCell>
+        <mxCell id="iWrDtdt-Z3ffTOrgZMP3-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="35.5" width="200" height="189" as="geometry" />
+        </mxCell>
+        <mxCell id="iWrDtdt-Z3ffTOrgZMP3-18" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="360" y="70" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="iWrDtdt-Z3ffTOrgZMP3-2" value="数据预处理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="400" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iWrDtdt-Z3ffTOrgZMP3-3" value="DTC 演变模型" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="640" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iWrDtdt-Z3ffTOrgZMP3-7" value="数据融合" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="400" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iWrDtdt-Z3ffTOrgZMP3-9" value="维修预测模型" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="640" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iWrDtdt-Z3ffTOrgZMP3-11" value="故障预测模型" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="640" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iWrDtdt-Z3ffTOrgZMP3-20" value="特征挖掘" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="640" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iWrDtdt-Z3ffTOrgZMP3-23" value="DTC演变图谱" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="880" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iWrDtdt-Z3ffTOrgZMP3-24" value="预测更换零部件" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="880" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iWrDtdt-Z3ffTOrgZMP3-25" value="故障码&amp;amp;故障码组合" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="880" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
