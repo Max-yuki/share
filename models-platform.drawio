@@ -1,98 +1,158 @@
-<mxfile host="app.diagrams.net" modified="2022-04-28T03:28:44.057Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="aX3NtLUqtyr01zWp3UXg" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-28T03:56:07.923Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="3yCrAejQChVPTt5Bz9Ll" version="17.4.6" type="github">
   <diagram id="qOfUivVCctx0ZlwlnH53" name="Page-1">
-    <mxGraphModel dx="1022" dy="1023" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="674" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="7Eq7nUJiCLbymJrPd0HY-1" value="数据预处理模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7Eq7nUJiCLbymJrPd0HY-1" value="数据预处理模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7Eq7nUJiCLbymJrPd0HY-2" value="KRL/NER/RE/EE/KR图谱算法框架" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7Eq7nUJiCLbymJrPd0HY-2" value="KRL/NER/RE/EE/KR图谱算法框架" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="210" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7Eq7nUJiCLbymJrPd0HY-3" value="图谱实体&amp;amp;存储模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7Eq7nUJiCLbymJrPd0HY-3" value="图谱实体&amp;amp;存储模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="354" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7Eq7nUJiCLbymJrPd0HY-4" value="智能问答模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7Eq7nUJiCLbymJrPd0HY-4" value="智能问答模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="490" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7Eq7nUJiCLbymJrPd0HY-5" value="推荐系统模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7Eq7nUJiCLbymJrPd0HY-5" value="推荐系统模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="490" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7Eq7nUJiCLbymJrPd0HY-6" value="语义搜索模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7Eq7nUJiCLbymJrPd0HY-6" value="语义搜索模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="490" y="380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7Eq7nUJiCLbymJrPd0HY-7" value="售后故障诊断" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7Eq7nUJiCLbymJrPd0HY-7" value="售后故障诊断" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="490" y="480" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7Eq7nUJiCLbymJrPd0HY-9" value="WORD文本数据-DOCX算法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7Eq7nUJiCLbymJrPd0HY-9" value="WORD文本数据-DOCX算法" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="330" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7Eq7nUJiCLbymJrPd0HY-10" value="PDF文本数据-pdfminer算法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7Eq7nUJiCLbymJrPd0HY-10" value="PDF文本数据-pdfminer算法" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="380" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7Eq7nUJiCLbymJrPd0HY-11" value="图片数据- OCR算法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7Eq7nUJiCLbymJrPd0HY-11" value="图片数据- OCR算法" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="440" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7Eq7nUJiCLbymJrPd0HY-12" value="语音数据- Paddlespeech算法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7Eq7nUJiCLbymJrPd0HY-12" value="语音数据- Paddlespeech算法" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="510" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7Eq7nUJiCLbymJrPd0HY-13" value="知识表示算法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7Eq7nUJiCLbymJrPd0HY-13" value="知识表示算法" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="210" y="270" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7Eq7nUJiCLbymJrPd0HY-14" value="实体识别与链接算法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7Eq7nUJiCLbymJrPd0HY-14" value="实体识别与链接算法" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="210" y="330" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7Eq7nUJiCLbymJrPd0HY-15" value="实体关系抽取算法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7Eq7nUJiCLbymJrPd0HY-15" value="实体关系抽取算法" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="210" y="380" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7Eq7nUJiCLbymJrPd0HY-16" value="事件抽取算法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7Eq7nUJiCLbymJrPd0HY-16" value="事件抽取算法" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="210" y="430" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7Eq7nUJiCLbymJrPd0HY-17" value="知识推理算法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7Eq7nUJiCLbymJrPd0HY-17" value="知识推理算法" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="210" y="480" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7Eq7nUJiCLbymJrPd0HY-18" value="根据客户的数据库类型，将数据的实体及关系存储" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7Eq7nUJiCLbymJrPd0HY-18" value="根据客户的数据库类型，将数据的实体及关系存储" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="353.5" y="300" width="120" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="7Eq7nUJiCLbymJrPd0HY-19" value="语音识别模块-PaddleSpeech算法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7Eq7nUJiCLbymJrPd0HY-19" value="语音识别模块-PaddleSpeech算法" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="650" y="170" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7Eq7nUJiCLbymJrPd0HY-20" value="自然语言理解- NLU算法模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7Eq7nUJiCLbymJrPd0HY-20" value="自然语言理解- NLU算法模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="800" y="170" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7Eq7nUJiCLbymJrPd0HY-21" value="对话管理DM算法模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7Eq7nUJiCLbymJrPd0HY-21" value="对话管理DM算法模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="910" y="170" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7Eq7nUJiCLbymJrPd0HY-22" value="召回模块- Item2vec/DSSM等算法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7Eq7nUJiCLbymJrPd0HY-22" value="召回模块- Item2vec/DSSM等算法" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="650" y="300" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7Eq7nUJiCLbymJrPd0HY-23" value="粗排模块- LR/SVM DIN等算法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7Eq7nUJiCLbymJrPd0HY-23" value="粗排模块- LR/SVM DIN等算法" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="790" y="300" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7Eq7nUJiCLbymJrPd0HY-24" value="精排模块- ESSM等算法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7Eq7nUJiCLbymJrPd0HY-24" value="精排模块- ESSM等算法" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="930" y="300" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7Eq7nUJiCLbymJrPd0HY-25" value="匹配模块-相似度算法（距离、向量）等" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7Eq7nUJiCLbymJrPd0HY-25" value="匹配模块-相似度算法（距离、向量）等" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="650" y="400" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7Eq7nUJiCLbymJrPd0HY-26" value="推理模块-规则推理、算法推理等" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7Eq7nUJiCLbymJrPd0HY-26" value="推理模块-规则推理、算法推理等" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="827" y="400" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7Eq7nUJiCLbymJrPd0HY-27" value="匹配模块-相似度算法（距离、向量）等" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7Eq7nUJiCLbymJrPd0HY-27" value="匹配模块-相似度算法（距离、向量）等" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="650" y="490" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7Eq7nUJiCLbymJrPd0HY-29" value="推荐模块-规则推理、算法推理等" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7Eq7nUJiCLbymJrPd0HY-29" value="推荐模块-规则推理、算法推理等" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="827" y="490" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7Eq7nUJiCLbymJrPd0HY-30" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span&gt;&lt;p class=&quot;ql-long-18731758&quot; style=&quot;line-height: 100% ; margin-bottom: 0pt ; margin-top: 0pt ; font-size: 11pt ; color: #494949&quot;&gt;&lt;span class=&quot;ql-author-18731758&quot;&gt;&lt;img width=&quot;785&quot; height=&quot;auto&quot; src=&quot;https://uploader.shimo.im/f/jnMDkQZvQmOfKXfA.png!thumbnail?accessToken=eyJhbGciOiJIUzI1NiIsImtpZCI6ImRlZmF1bHQiLCJ0eXAiOiJKV1QifQ.eyJhdWQiOiJhY2Nlc3NfcmVzb3VyY2UiLCJleHAiOjE2NTEwNzIzODAsImZpbGVHVUlEIjoiOEh3anB3Nld5M1c2aHJIciIsImlhdCI6MTY1MTA3MjA4MCwidXNlcklkIjoxODczMTc1OH0.zJsEHtPDCfzLWW-_D0pR2mw51k_mSbAoeMEFQlu2a8Q&quot;&gt;&lt;/span&gt;&lt;/p&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="827" y="585" width="713" height="635" as="geometry" />
-        </mxCell>
-        <mxCell id="7Eq7nUJiCLbymJrPd0HY-31" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7Eq7nUJiCLbymJrPd0HY-31" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="70" y="680" width="200" height="490" as="geometry" />
         </mxCell>
-        <mxCell id="7Eq7nUJiCLbymJrPd0HY-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="92.5" y="710" width="155" height="60" as="geometry" />
+        <mxCell id="7Eq7nUJiCLbymJrPd0HY-32" value="半结构化数据&lt;br&gt;Semi-Structured Data" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="92.5" y="780" width="155" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iudNg1QDq1xO68QwgV4b-1" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span&gt;&lt;p class=&quot;ql-long-18731758&quot; style=&quot;line-height: 100% ; margin-bottom: 0pt ; margin-top: 0pt ; font-size: 11pt ; color: #494949&quot;&gt;&lt;span class=&quot;ql-author-18731758&quot;&gt;&lt;img width=&quot;785&quot; height=&quot;auto&quot; src=&quot;https://uploader.shimo.im/f/jnMDkQZvQmOfKXfA.png!thumbnail?accessToken=eyJhbGciOiJIUzI1NiIsImtpZCI6ImRlZmF1bHQiLCJ0eXAiOiJKV1QifQ.eyJhdWQiOiJhY2Nlc3NfcmVzb3VyY2UiLCJleHAiOjE2NTExMTY3NTgsImZpbGVHVUlEIjoiOEh3anB3Nld5M1c2aHJIciIsImlhdCI6MTY1MTExNjQ1OCwidXNlcklkIjoxODczMTc1OH0.itT3kdhKjFSnmQ8WX8ovjMoRdsSxDYxeMlRM7furADM&quot;&gt;&lt;/span&gt;&lt;/p&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="660" width="160" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="iudNg1QDq1xO68QwgV4b-2" value="结构化数据&lt;br&gt;Structured Data" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="92.5" y="700" width="155" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iudNg1QDq1xO68QwgV4b-3" value="非结构化数据&lt;br&gt;Unstructured Data" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="92.5" y="860" width="155" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iudNg1QDq1xO68QwgV4b-4" value="数据预处理&lt;br&gt;Data Pre-Processing" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="92.5" y="960" width="155" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iudNg1QDq1xO68QwgV4b-5" value="数据采集&lt;br&gt;Data Acquisition" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="1100" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iudNg1QDq1xO68QwgV4b-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="680" width="170" height="490" as="geometry" />
+        </mxCell>
+        <mxCell id="iudNg1QDq1xO68QwgV4b-7" value="实体提取&lt;br&gt;Entity Extraction" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iudNg1QDq1xO68QwgV4b-8" value="属性提取&lt;br&gt;Attribute Extration" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iudNg1QDq1xO68QwgV4b-9" value="&lt;div&gt;关系提取&lt;/div&gt;&lt;div&gt;Relationship Extraction&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="860" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iudNg1QDq1xO68QwgV4b-10" value="知识获取&lt;br&gt;Knowledge Acquisition" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="1110" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iudNg1QDq1xO68QwgV4b-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="680" width="150" height="490" as="geometry" />
+        </mxCell>
+        <mxCell id="iudNg1QDq1xO68QwgV4b-12" value="知识融合&lt;br&gt;Knowledge Fusion" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iudNg1QDq1xO68QwgV4b-13" value="共指解析&lt;br&gt;Coreference Resolution" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iudNg1QDq1xO68QwgV4b-14" value="实体消歧&lt;br&gt;Entity Disambiguation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="605" y="870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iudNg1QDq1xO68QwgV4b-17" value="第三方知识库&lt;br&gt;Third-Party KB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="620" y="570" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iudNg1QDq1xO68QwgV4b-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="680" width="150" height="490" as="geometry" />
+        </mxCell>
+        <mxCell id="iudNg1QDq1xO68QwgV4b-19" value="知识推理&lt;br&gt;Knowledge Inference" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="855" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iudNg1QDq1xO68QwgV4b-20" value="质量评价&lt;br&gt;Quality Evaluation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="855" y="780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iudNg1QDq1xO68QwgV4b-21" value="本体提取&lt;br&gt;Ontology Extraction" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="855" y="860" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iudNg1QDq1xO68QwgV4b-22" value="知识加工&lt;br&gt;Knowledge processing" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="850" y="1100" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iudNg1QDq1xO68QwgV4b-23" value="知识融合&lt;br&gt;Knowledge Fusion" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="590" y="1110" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
