@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-24T08:16:55.989Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="14GexVeQTF0tYgwGy1df" version="18.0.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-06-10T08:22:56.507Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36" etag="ifxE3h6my0y9LfBWSt7D" version="17.4.0" type="github" pages="2">
   <diagram id="O_6klfBwwiDGLurZtnUx" name="Page-1">
-    <mxGraphModel dx="1312" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -44,23 +44,24 @@
         <mxCell id="MrW833mW-u8eSEEagUty-5" value="特征存储" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#f5f5f5;fontColor=#666666;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="45" y="208" width="70" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="MrW833mW-u8eSEEagUty-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;strokeColor=#999999;" parent="1" source="MrW833mW-u8eSEEagUty-7" target="MrW833mW-u8eSEEagUty-8" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="MrW833mW-u8eSEEagUty-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;strokeColor=#999999;" parent="1" source="MrW833mW-u8eSEEagUty-7" target="MrW833mW-u8eSEEagUty-9" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="150" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="MrW833mW-u8eSEEagUty-7" value="代码仓库" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#f5f5f5;fontColor=#666666;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="320" y="120" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MrW833mW-u8eSEEagUty-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;strokeColor=#999999;" parent="1" source="MrW833mW-u8eSEEagUty-8" target="MrW833mW-u8eSEEagUty-9" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="MrW833mW-u8eSEEagUty-8" value="CI：构建、测试、打包等" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="410" y="120" width="200" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="MrW833mW-u8eSEEagUty-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#999999;" parent="1" source="MrW833mW-u8eSEEagUty-9" target="MrW833mW-u8eSEEagUty-13" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="MrW833mW-u8eSEEagUty-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#999999;" parent="1" source="MrW833mW-u8eSEEagUty-9" target="MrW833mW-u8eSEEagUty-13" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="514" y="240" />
+              <mxPoint x="375" y="240" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="MrW833mW-u8eSEEagUty-9" value="CD：部署Pipelines" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="410" y="197" width="200" height="60" as="geometry" />
+          <mxGeometry x="414" y="120" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MrW833mW-u8eSEEagUty-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#999999;" parent="1" source="MrW833mW-u8eSEEagUty-10" target="MrW833mW-u8eSEEagUty-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
