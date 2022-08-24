@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-24T06:45:57.053Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="aXGBM_QqDDM2Sevslt0T" version="20.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-24T07:45:16.612Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="3zQdlq67mtZjTe0F4srY" version="20.2.5" type="github">
   <diagram id="ZPcmBbQl1rgQj3kZ4n6N" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -192,6 +192,144 @@
         </mxCell>
         <mxCell id="bsMbISX9EA4oYNUM3-fa-83" value="模型" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=15;fontColor=#4D4D4D;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="160.7" y="681" width="22" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bsMbISX9EA4oYNUM3-fa-114" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;fontColor=#666666;strokeWidth=1;" edge="1" parent="1" source="bsMbISX9EA4oYNUM3-fa-98">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="1325" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bsMbISX9EA4oYNUM3-fa-115" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;fontColor=#666666;strokeWidth=1;" edge="1" parent="1" source="bsMbISX9EA4oYNUM3-fa-99" target="bsMbISX9EA4oYNUM3-fa-104">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bsMbISX9EA4oYNUM3-fa-119" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.16;entryY=0.55;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;fontColor=#666666;strokeWidth=1;" edge="1" parent="1" source="bsMbISX9EA4oYNUM3-fa-108">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="907.56" y="1312" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bsMbISX9EA4oYNUM3-fa-121" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.16;entryY=0.55;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;fontColor=#666666;strokeWidth=1;" edge="1" parent="1" source="bsMbISX9EA4oYNUM3-fa-116">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="910.2800000000002" y="1504.5500000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bsMbISX9EA4oYNUM3-fa-122" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;fontColor=#666666;strokeWidth=1;" edge="1" parent="1" target="bsMbISX9EA4oYNUM3-fa-108">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="580" y="1325" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bsMbISX9EA4oYNUM3-fa-106" value="模型服务" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontColor=#666666;strokeColor=#CCCCCC;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="842" y="1169" width="214" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="bsMbISX9EA4oYNUM3-fa-107" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontColor=#666666;strokeColor=#CCCCCC;" vertex="1" parent="1">
+          <mxGeometry x="842" y="1217" width="214" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="bsMbISX9EA4oYNUM3-fa-101" value="模型开发" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontColor=#666666;strokeColor=#CCCCCC;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="628" y="1169" width="214" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="bsMbISX9EA4oYNUM3-fa-102" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontColor=#666666;strokeColor=#CCCCCC;" vertex="1" parent="1">
+          <mxGeometry x="628" y="1217" width="214" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="bsMbISX9EA4oYNUM3-fa-108" value="油耗分析模型训练&lt;br&gt;（Python/Scikitlearn）" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontColor=#666666;strokeColor=#4D4D4D;" vertex="1" parent="1">
+          <mxGeometry x="647.75" y="1250" width="168.25" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bsMbISX9EA4oYNUM3-fa-116" value="故障预测模型训练&lt;br&gt;(Scikit-learn/Tensorflow)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontColor=#666666;strokeColor=#4D4D4D;" vertex="1" parent="1">
+          <mxGeometry x="651.75" y="1389" width="166.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bsMbISX9EA4oYNUM3-fa-95" value="数据预处理/特征计算" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontColor=#666666;strokeColor=#CCCCCC;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="414" y="1169" width="214" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="bsMbISX9EA4oYNUM3-fa-96" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontColor=#666666;strokeColor=#CCCCCC;" vertex="1" parent="1">
+          <mxGeometry x="414" y="1217" width="214" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="bsMbISX9EA4oYNUM3-fa-148" value="实时数据" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;fontColor=#666666;strokeWidth=1;" edge="1" parent="1" source="bsMbISX9EA4oYNUM3-fa-104" target="bsMbISX9EA4oYNUM3-fa-141">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="750" y="1520" />
+              <mxPoint x="750" y="1470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bsMbISX9EA4oYNUM3-fa-104" value="实时故障数据处理和特征计算（pySpark）" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontColor=#666666;strokeColor=#4D4D4D;" vertex="1" parent="1">
+          <mxGeometry x="456" y="1490" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bsMbISX9EA4oYNUM3-fa-88" value="数据接入" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontColor=#666666;strokeColor=#CCCCCC;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="169.5" y="1169" width="244" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="bsMbISX9EA4oYNUM3-fa-90" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontColor=#666666;strokeColor=#CCCCCC;" vertex="1" parent="1">
+          <mxGeometry x="169.5" y="1217" width="244" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="bsMbISX9EA4oYNUM3-fa-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;fontColor=#666666;strokeWidth=1;curved=1;" edge="1" parent="1" source="bsMbISX9EA4oYNUM3-fa-91" target="bsMbISX9EA4oYNUM3-fa-98">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="260.5" y="1375" />
+              <mxPoint x="260.5" y="1327" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bsMbISX9EA4oYNUM3-fa-111" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=15;fontColor=#666666;strokeWidth=1;" edge="1" parent="1" source="bsMbISX9EA4oYNUM3-fa-91" target="bsMbISX9EA4oYNUM3-fa-99">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="260.5" y="1375" />
+              <mxPoint x="260.5" y="1445" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bsMbISX9EA4oYNUM3-fa-91" value="数据源" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=15;fontColor=#666666;strokeColor=#4D4D4D;" vertex="1" parent="1">
+          <mxGeometry x="179" y="1330" width="71.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="bsMbISX9EA4oYNUM3-fa-126" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;fontColor=#666666;strokeWidth=1;" edge="1" parent="1" source="bsMbISX9EA4oYNUM3-fa-99" target="bsMbISX9EA4oYNUM3-fa-104">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bsMbISX9EA4oYNUM3-fa-99" value="Spark Streaming" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontColor=#666666;strokeColor=#4D4D4D;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="280" y="1410" width="119.5" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="bsMbISX9EA4oYNUM3-fa-136" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;fontColor=#666666;strokeWidth=1;" edge="1" parent="1" source="bsMbISX9EA4oYNUM3-fa-98" target="bsMbISX9EA4oYNUM3-fa-134">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bsMbISX9EA4oYNUM3-fa-144" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;fontColor=#666666;strokeWidth=1;" edge="1" parent="1" source="bsMbISX9EA4oYNUM3-fa-98" target="bsMbISX9EA4oYNUM3-fa-135">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bsMbISX9EA4oYNUM3-fa-98" value="&lt;b&gt;Spark&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontColor=#666666;strokeColor=#4D4D4D;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1297" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bsMbISX9EA4oYNUM3-fa-112" value="离线数据" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="305" y="1290" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bsMbISX9EA4oYNUM3-fa-113" value="实时数据" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="305" y="1402" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bsMbISX9EA4oYNUM3-fa-137" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;fontColor=#666666;strokeWidth=1;" edge="1" parent="1" source="bsMbISX9EA4oYNUM3-fa-134" target="bsMbISX9EA4oYNUM3-fa-108">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bsMbISX9EA4oYNUM3-fa-138" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;fontColor=#666666;strokeWidth=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="bsMbISX9EA4oYNUM3-fa-142">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="590" y="1280" as="sourcePoint" />
+            <mxPoint x="928.71" y="1337" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="620" y="1280" />
+              <mxPoint x="620" y="1370" />
+              <mxPoint x="949" y="1370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bsMbISX9EA4oYNUM3-fa-139" value="离线数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontColor=#666666;" vertex="1" connectable="0" parent="bsMbISX9EA4oYNUM3-fa-138">
+          <mxGeometry x="-0.034" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bsMbISX9EA4oYNUM3-fa-134" value="离线油耗数据处理和特征计算（pySpark）" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontColor=#666666;strokeColor=#4D4D4D;" vertex="1" parent="1">
+          <mxGeometry x="456.5" y="1250" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bsMbISX9EA4oYNUM3-fa-143" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;fontColor=#666666;strokeWidth=1;" edge="1" parent="1" source="bsMbISX9EA4oYNUM3-fa-135" target="bsMbISX9EA4oYNUM3-fa-116">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bsMbISX9EA4oYNUM3-fa-135" value="离线故障数据处理和特征计算（pySpark）" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontColor=#666666;strokeColor=#4D4D4D;" vertex="1" parent="1">
+          <mxGeometry x="456.5" y="1330" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bsMbISX9EA4oYNUM3-fa-141" value="故障预测模型" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fontColor=#666666;strokeColor=#4D4D4D;" vertex="1" parent="1">
+          <mxGeometry x="889" y="1440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bsMbISX9EA4oYNUM3-fa-142" value="油耗分析模型" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fontColor=#666666;strokeColor=#4D4D4D;" vertex="1" parent="1">
+          <mxGeometry x="889" y="1260" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
