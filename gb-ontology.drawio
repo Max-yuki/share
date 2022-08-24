@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-24T03:48:29.427Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="NALH328IpGrx2NnE3zju" version="20.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-24T06:45:57.053Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="aXGBM_QqDDM2Sevslt0T" version="20.2.5" type="github">
   <diagram id="ZPcmBbQl1rgQj3kZ4n6N" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -132,6 +132,66 @@
             <mxPoint x="891.25" y="484" as="sourcePoint" />
             <mxPoint x="891.7200000000003" y="454" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="bsMbISX9EA4oYNUM3-fa-62" value="实时/离线数仓" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=15;strokeColor=#9673a6;fillColor=#e1d5e7;fontStyle=1;fontColor=#4D4D4D;" vertex="1" parent="1">
+          <mxGeometry x="193" y="949" width="790" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bsMbISX9EA4oYNUM3-fa-63" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=15;strokeColor=#9673a6;fillColor=#e1d5e7;" vertex="1" parent="1">
+          <mxGeometry x="193" y="849" width="330" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="bsMbISX9EA4oYNUM3-fa-64" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=15;strokeColor=#9673a6;fillColor=#e1d5e7;" vertex="1" parent="1">
+          <mxGeometry x="533" y="849" width="450" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="bsMbISX9EA4oYNUM3-fa-65" value="离线数据处理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=15;fontColor=#666666;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="315" y="849" width="112" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bsMbISX9EA4oYNUM3-fa-66" value="&lt;span style=&quot;&quot;&gt;实时数据处理&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=15;fontColor=#666666;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="697.5" y="849" width="161" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bsMbISX9EA4oYNUM3-fa-68" value="Spark（pySpark）" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;strokeColor=#d6b656;fontStyle=1;fillColor=#fff2cc;fontColor=#4D4D4D;" vertex="1" parent="1">
+          <mxGeometry x="307" y="890" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bsMbISX9EA4oYNUM3-fa-69" value="Spark Streaming&lt;br&gt;(pySpark)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;strokeColor=#d6b656;fontStyle=1;fillColor=#fff2cc;fontColor=#4D4D4D;" vertex="1" parent="1">
+          <mxGeometry x="570" y="890" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bsMbISX9EA4oYNUM3-fa-70" value="Flink" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;strokeColor=#d6b656;fontStyle=1;fillColor=#fff2cc;fontColor=#4D4D4D;" vertex="1" parent="1">
+          <mxGeometry x="816" y="890" width="114" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bsMbISX9EA4oYNUM3-fa-71" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=15;strokeColor=#9673a6;fillColor=#e1d5e7;" vertex="1" parent="1">
+          <mxGeometry x="193" y="749" width="790" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="bsMbISX9EA4oYNUM3-fa-72" value="油耗分析模型" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=15;strokeColor=#9673a6;fillColor=#e1d5e7;fontStyle=1;fontColor=#4D4D4D;" vertex="1" parent="1">
+          <mxGeometry x="193" y="650" width="390" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="bsMbISX9EA4oYNUM3-fa-73" value="故障预测模型" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=15;strokeColor=#9673a6;fillColor=#e1d5e7;fontStyle=1;fontColor=#4D4D4D;" vertex="1" parent="1">
+          <mxGeometry x="593" y="651" width="390" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="bsMbISX9EA4oYNUM3-fa-74" value="Python" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;strokeColor=#d6b656;fontStyle=1;fillColor=#fff2cc;fontColor=#4D4D4D;" vertex="1" parent="1">
+          <mxGeometry x="216" y="774" width="114" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bsMbISX9EA4oYNUM3-fa-75" value="Jupyter Lab" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;strokeColor=#d6b656;fontStyle=1;fillColor=#fff2cc;fontColor=#4D4D4D;" vertex="1" parent="1">
+          <mxGeometry x="357" y="774" width="114" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bsMbISX9EA4oYNUM3-fa-76" value="Scikit-learn" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;strokeColor=#d6b656;fontStyle=1;fillColor=#fff2cc;fontColor=#4D4D4D;" vertex="1" parent="1">
+          <mxGeometry x="502.32" y="774" width="114" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bsMbISX9EA4oYNUM3-fa-77" value="Networkx" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;strokeColor=#d6b656;fontStyle=1;fillColor=#fff2cc;fontColor=#4D4D4D;" vertex="1" parent="1">
+          <mxGeometry x="646" y="774" width="114" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bsMbISX9EA4oYNUM3-fa-78" value="TensorFlow/pyTorch" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;strokeColor=#d6b656;fontStyle=1;fillColor=#fff2cc;fontColor=#4D4D4D;" vertex="1" parent="1">
+          <mxGeometry x="790" y="774" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bsMbISX9EA4oYNUM3-fa-80" value="数据" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=15;fontColor=#4D4D4D;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="157.7" y="964" width="25" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bsMbISX9EA4oYNUM3-fa-81" value="数据处理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=15;fontColor=#4D4D4D;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="160" y="879" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bsMbISX9EA4oYNUM3-fa-82" value="机&lt;br&gt;器&lt;br&gt;学&lt;br&gt;习" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=15;fontColor=#4D4D4D;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="156" y="779" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bsMbISX9EA4oYNUM3-fa-83" value="模型" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=15;fontColor=#4D4D4D;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="160.7" y="681" width="22" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
