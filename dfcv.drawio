@@ -1,1 +1,67 @@
-<mxfile host="app.diagrams.net" modified="2022-09-15T08:50:29.601Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" version="20.2.8" etag="wc4TLCL75s_a2zJt9Z-f" type="github"><diagram id="Ei3mppDBeiuE7yWcJAJr">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-09-15T09:15:00.299Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="RcbFbRdsxZi3C_ZIWpqV" version="20.2.8" type="github">
+  <diagram id="Ei3mppDBeiuE7yWcJAJr" name="Page-1">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="6RCyKZ0J1g51VHhvltjI-25" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="850" y="220" width="215" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="6RCyKZ0J1g51VHhvltjI-15" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="549" y="220" width="215" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="6RCyKZ0J1g51VHhvltjI-10" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="272" y="220" width="180" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="6RCyKZ0J1g51VHhvltjI-1" value="数据探索分析（EDA）" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontColor=#4D4D4D;" vertex="1" parent="1">
+          <mxGeometry x="297" y="260" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6RCyKZ0J1g51VHhvltjI-2" value="数据" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="30" y="302.5" width="160" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="6RCyKZ0J1g51VHhvltjI-5" value="分析和挖掘油耗数据" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontColor=#4D4D4D;" vertex="1" parent="1">
+          <mxGeometry x="297" y="380" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6RCyKZ0J1g51VHhvltjI-7" value="数据检验、预处理" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontColor=#4D4D4D;" vertex="1" parent="1">
+          <mxGeometry x="297" y="320" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6RCyKZ0J1g51VHhvltjI-8" value="指标计算、工况划分" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontColor=#4D4D4D;" vertex="1" parent="1">
+          <mxGeometry x="297" y="440" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6RCyKZ0J1g51VHhvltjI-11" value="大数据分析、数据处理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontStyle=1;fontColor=#999999;" vertex="1" parent="1">
+          <mxGeometry x="287" y="220" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6RCyKZ0J1g51VHhvltjI-13" value="&lt;span style=&quot;&quot;&gt;油耗综合评价&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontColor=#4D4D4D;" vertex="1" parent="1">
+          <mxGeometry x="591.5" y="380" width="130" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="6RCyKZ0J1g51VHhvltjI-14" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;挖掘影响油耗因子&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontColor=#4D4D4D;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="591.5" y="260" width="130" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="6RCyKZ0J1g51VHhvltjI-16" value="机器学习模型" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontStyle=1;fontColor=#999999;" vertex="1" parent="1">
+          <mxGeometry x="581.5" y="220" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6RCyKZ0J1g51VHhvltjI-18" value="油耗&lt;span style=&quot;&quot;&gt;影响重要因子、影响程度&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontColor=#4D4D4D;" vertex="1" parent="1">
+          <mxGeometry x="892.5" y="270" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6RCyKZ0J1g51VHhvltjI-19" value="油耗评分" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontColor=#4D4D4D;" vertex="1" parent="1">
+          <mxGeometry x="892.5" y="357.5" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6RCyKZ0J1g51VHhvltjI-20" value="改善油耗驾驶操作建议" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontColor=#4D4D4D;" vertex="1" parent="1">
+          <mxGeometry x="892.5" y="440" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6RCyKZ0J1g51VHhvltjI-21" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;fontColor=#4D4D4D;" vertex="1" parent="1">
+          <mxGeometry x="210" y="340" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6RCyKZ0J1g51VHhvltjI-22" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;fontColor=#4D4D4D;" vertex="1" parent="1">
+          <mxGeometry x="480" y="340" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6RCyKZ0J1g51VHhvltjI-23" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;fontColor=#4D4D4D;" vertex="1" parent="1">
+          <mxGeometry x="780" y="340" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6RCyKZ0J1g51VHhvltjI-26" value="输出结果" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontStyle=1;fontColor=#999999;" vertex="1" parent="1">
+          <mxGeometry x="882.5" y="220" width="150" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
