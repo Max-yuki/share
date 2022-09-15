@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2022-09-15T09:15:00.299Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="RcbFbRdsxZi3C_ZIWpqV" version="20.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-15T13:36:59.753Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="QQSjfwOXU4OVRb_rPusB" version="20.2.8" type="github">
   <diagram id="Ei3mppDBeiuE7yWcJAJr" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="6RCyKZ0J1g51VHhvltjI-33" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontFamily=Tahoma;fontSize=42;fontColor=#999999;" vertex="1" parent="1">
+          <mxGeometry x="178.5" y="665" width="703" height="190" as="geometry" />
+        </mxCell>
         <mxCell id="6RCyKZ0J1g51VHhvltjI-25" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="850" y="220" width="215" height="290" as="geometry" />
         </mxCell>
@@ -60,6 +63,21 @@
         </mxCell>
         <mxCell id="6RCyKZ0J1g51VHhvltjI-26" value="输出结果" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontStyle=1;fontColor=#999999;" vertex="1" parent="1">
           <mxGeometry x="882.5" y="220" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6RCyKZ0J1g51VHhvltjI-27" value="用车工况细分切片" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#4D4D4D;fontFamily=Tahoma;" vertex="1" parent="1">
+          <mxGeometry x="200" y="710" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="6RCyKZ0J1g51VHhvltjI-29" value="油耗精准评分" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#4D4D4D;fontFamily=Tahoma;" vertex="1" parent="1">
+          <mxGeometry x="440" y="710" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="6RCyKZ0J1g51VHhvltjI-30" value="个性化驾驶行为建议" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#4D4D4D;fontFamily=Tahoma;" vertex="1" parent="1">
+          <mxGeometry x="680" y="710" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="6RCyKZ0J1g51VHhvltjI-31" value="&lt;font color=&quot;#999999&quot;&gt;+&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=42;fontColor=#4D4D4D;fontStyle=1;fontFamily=Tahoma;" vertex="1" parent="1">
+          <mxGeometry x="380" y="745" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6RCyKZ0J1g51VHhvltjI-32" value="&lt;font color=&quot;#999999&quot;&gt;+&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=42;fontColor=#4D4D4D;fontStyle=1;fontFamily=Tahoma;" vertex="1" parent="1">
+          <mxGeometry x="620" y="745" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
