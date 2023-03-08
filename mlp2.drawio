@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-08T10:53:57.207Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="zWwHoCqYX1Ns21RWwcqs" version="20.8.18" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-08T11:03:40.738Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="j1Kwg16dZ7fcSDYNP1Y3" version="20.8.18" type="github">
   <diagram id="ie_3CytNylO9c6eQ8wbu" name="Page-1">
     <mxGraphModel dx="1434" dy="-405" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -539,7 +539,7 @@
           <mxGeometry x="393" y="1540" width="185" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PCzCWlCmDGC5C0q-Hgkh-4" value="模型中心" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="393" y="1470" width="380" height="60" as="geometry" />
+          <mxGeometry x="393" y="1470" width="187" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xdphmqhNdcazX4ZbJV4D-3" value="模型实时监控" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1170.5" y="3278" width="120" height="60" as="geometry" />
@@ -564,6 +564,48 @@
               <mxPoint x="1231" y="3405" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="xdphmqhNdcazX4ZbJV4D-17" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;dashed=1;strokeColor=#4D4D4D;fontSize=12;fontColor=#999999;fillColor=none;opacity=80;" vertex="1" parent="1">
+          <mxGeometry x="960" y="1398" width="590" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="xdphmqhNdcazX4ZbJV4D-18" value="数据管理" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1028" y="1625" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xdphmqhNdcazX4ZbJV4D-19" value="交互式建模" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1158" y="1625" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xdphmqhNdcazX4ZbJV4D-20" value="可视化建模" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1288" y="1625" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xdphmqhNdcazX4ZbJV4D-21" value="分布式训练/实验管理" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1028" y="1695" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xdphmqhNdcazX4ZbJV4D-22" value="标准模型库" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="970" y="1480" width="438" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xdphmqhNdcazX4ZbJV4D-23" value="帮助中心" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="1408" width="120" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="xdphmqhNdcazX4ZbJV4D-24" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeColor=#4D4D4D;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1030" y="1617" as="sourcePoint" />
+            <mxPoint x="1410" y="1617" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xdphmqhNdcazX4ZbJV4D-26" value="任务管理" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1288" y="1696" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xdphmqhNdcazX4ZbJV4D-27" value="在线推理" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="1198" y="1410" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xdphmqhNdcazX4ZbJV4D-28" value="可视化模型ETL" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="970" y="1410" width="213" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xdphmqhNdcazX4ZbJV4D-29" value="模型中心" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="970" y="1553" width="438" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xdphmqhNdcazX4ZbJV4D-32" value="模型监控" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="588" y="1470" width="187" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
