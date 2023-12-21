@@ -1,9 +1,97 @@
-<mxfile host="app.diagrams.net" modified="2023-12-20T10:58:12.501Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" version="22.1.11" etag="m_lMzJTYOnJuUF-Kx3e9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-21T02:29:57.190Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="sbG9gFA9hKZWAxIbtHV3" version="22.1.11" type="github">
   <diagram name="Page-1" id="Uionjew20fTVWsWUvyCe">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="w1a0JujKwXgCbb6xLYo1-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="w1a0JujKwXgCbb6xLYo1-1" target="w1a0JujKwXgCbb6xLYo1-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w1a0JujKwXgCbb6xLYo1-1" value="需求方" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="198.75" y="120" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w1a0JujKwXgCbb6xLYo1-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="w1a0JujKwXgCbb6xLYo1-3" target="w1a0JujKwXgCbb6xLYo1-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w1a0JujKwXgCbb6xLYo1-3" value="填写域名申请模板" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="180" y="240" width="137.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w1a0JujKwXgCbb6xLYo1-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="w1a0JujKwXgCbb6xLYo1-4" target="w1a0JujKwXgCbb6xLYo1-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w1a0JujKwXgCbb6xLYo1-4" value="总经理审核并开通" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="180" y="460" width="137.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w1a0JujKwXgCbb6xLYo1-5" value="转发邮件发送至运维人员：&lt;br&gt;&lt;ul&gt;&lt;li&gt;武兴来（xinglai.wu@cihon.cn）&lt;/li&gt;&lt;li&gt;姜磊（lei.jiang@cihon.cn）&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;并抄送：&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;聂言康（yankang.nie@cihon.cn）&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="414" y="530" width="236" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="w1a0JujKwXgCbb6xLYo1-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="w1a0JujKwXgCbb6xLYo1-6" target="w1a0JujKwXgCbb6xLYo1-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w1a0JujKwXgCbb6xLYo1-6" value="编辑申请邮件发送CTO审核" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="180" y="350" width="137.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w1a0JujKwXgCbb6xLYo1-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="w1a0JujKwXgCbb6xLYo1-8" target="w1a0JujKwXgCbb6xLYo1-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w1a0JujKwXgCbb6xLYo1-8" value="需求方将开通后的邮件转发到运维" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="180" y="570" width="137.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w1a0JujKwXgCbb6xLYo1-9" value="运维进行后续的解析和开放网络" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="180" y="670" width="137.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w1a0JujKwXgCbb6xLYo1-10" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="198.75" y="760" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w1a0JujKwXgCbb6xLYo1-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;strokeWidth=3;dashed=1;" edge="1" parent="1" source="w1a0JujKwXgCbb6xLYo1-8" target="w1a0JujKwXgCbb6xLYo1-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w1a0JujKwXgCbb6xLYo1-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" edge="1" parent="1" source="w1a0JujKwXgCbb6xLYo1-9" target="w1a0JujKwXgCbb6xLYo1-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w1a0JujKwXgCbb6xLYo1-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="w1a0JujKwXgCbb6xLYo1-22" target="w1a0JujKwXgCbb6xLYo1-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w1a0JujKwXgCbb6xLYo1-22" value="需求方" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="778.75" y="120" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w1a0JujKwXgCbb6xLYo1-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="w1a0JujKwXgCbb6xLYo1-24" target="w1a0JujKwXgCbb6xLYo1-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w1a0JujKwXgCbb6xLYo1-24" value="填写内网服务器申请模板" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="760" y="240" width="137.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w1a0JujKwXgCbb6xLYo1-27" value="转发邮件发送至运维人员：&lt;br&gt;&lt;ul&gt;&lt;li&gt;武兴来（xinglai.wu@cihon.cn）&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;并抄送：&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;聂言康（yankang.nie@cihon.cn）&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="994" y="414" width="236" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="w1a0JujKwXgCbb6xLYo1-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="w1a0JujKwXgCbb6xLYo1-29" target="w1a0JujKwXgCbb6xLYo1-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="828.75" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w1a0JujKwXgCbb6xLYo1-29" value="编辑申请邮件发送CTO审核" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="760" y="350" width="137.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w1a0JujKwXgCbb6xLYo1-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="w1a0JujKwXgCbb6xLYo1-31" target="w1a0JujKwXgCbb6xLYo1-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="828.75" y="554" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w1a0JujKwXgCbb6xLYo1-31" value="需求方将审核通过后的邮件转发到运维" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="760" y="454" width="137.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w1a0JujKwXgCbb6xLYo1-32" value="运维进行后续的开通" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="760" y="560" width="137.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w1a0JujKwXgCbb6xLYo1-33" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="778.75" y="660" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w1a0JujKwXgCbb6xLYo1-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;strokeWidth=3;dashed=1;" edge="1" parent="1" source="w1a0JujKwXgCbb6xLYo1-31" target="w1a0JujKwXgCbb6xLYo1-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w1a0JujKwXgCbb6xLYo1-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" edge="1" parent="1" source="w1a0JujKwXgCbb6xLYo1-32" target="w1a0JujKwXgCbb6xLYo1-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
