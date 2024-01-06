@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-06T07:44:45.430Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="4g0VMtRR9oq4hKfXFP6K" version="22.1.17" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-06T07:45:53.890Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="EPzya7dj22hvMMXUhMie" version="22.1.17" type="github">
   <diagram id="ie_3CytNylO9c6eQ8wbu" name="Page-1">
     <mxGraphModel dx="1434" dy="-379" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -535,7 +535,7 @@
         <mxCell id="PCzCWlCmDGC5C0q-Hgkh-2" value="在线推理" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="588" y="1540" width="185" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PCzCWlCmDGC5C0q-Hgkh-3" value="可视化模型ETL" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+        <mxCell id="PCzCWlCmDGC5C0q-Hgkh-3" value="可视化推理任务" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="393" y="1540" width="185" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PCzCWlCmDGC5C0q-Hgkh-4" value="模型中心" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
